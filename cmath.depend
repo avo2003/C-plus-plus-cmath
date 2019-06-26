@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1561227453 source:c:\users\vinch\desktop\cmath\main.cpp
+	<iostream>
+	<cmath>
+
